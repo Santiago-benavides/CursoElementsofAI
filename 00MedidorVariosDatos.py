@@ -2,7 +2,7 @@
 """
 Created on Fri Feb  9 12:32:07 2024
 
-@author: Informatica
+Santiago Benavides 
 
 https://www.youtube.com/watch?v=p0NBDxVmkrI
 
@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=dlg3Pl2RmHg
 
 """
 
+#voy a cambiar algo acá
 
 import minimalmodbus
 import serial
