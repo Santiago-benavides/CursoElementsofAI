@@ -1,2 +1,1 @@
-a ver como funciona
-asdf
+Voy a empezar a documentar con el curso de inteligencia artificial!
