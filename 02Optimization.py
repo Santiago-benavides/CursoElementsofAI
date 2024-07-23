@@ -42,7 +42,7 @@ def climb(x, h):
         elif x>94:
             vecH=h[89:]
         
-        print(vecH)
+        # print(vecH)
         
         
         
@@ -58,7 +58,7 @@ def climb(x, h):
                         
             # print("el valor del indice es: ",vecH.index(maxVec))
             x=x+vecH.index(max(vecH))-5#vuelvo a poner el centro en el punto mas algo e inicio el algoritmo. 
-            print(x)
+            # print(x)
     
     return x
 
